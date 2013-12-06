@@ -1,0 +1,27 @@
+html {
+  background-color: #303030;
+}
+
+body {
+  width: 600px;
+  height: auto;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 100px;
+  color: #fff;
+  font-family: 'Raleway' sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #1abc9c;
+}
+
+a {
+  text-decoration: none;
+  color: #1abc9c;
+}
+
+p {
+  text-align: justify;
+}
